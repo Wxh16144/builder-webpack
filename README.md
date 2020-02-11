@@ -1,0 +1,1 @@
+[![Build Status](https://www.travis-ci.org/Wxh16144/builder-webpack.svg?branch=master)](https://www.travis-ci.org/Wxh16144/builder-webpack)
